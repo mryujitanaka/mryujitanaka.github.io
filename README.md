@@ -38,14 +38,14 @@
     <tr>
         <td>
             <a href="https://www.gnu.org/">
-            <img src="images/GNU-Logo.png" alt="GNU Logo" width="150" height="150">
+            <img src="images/readme/GNU-Logo.png" alt="GNU Logo" width="150" height="150">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://www.gnu.org/licenses/gpl-3.0.html">
-            <img src="images/GPLv3-Logo.png" alt="GNU Logo" width="250" height="150">
+            <img src="images/readme/GPLv3-Logo.png" alt="GNU Logo" width="250" height="150">
             </a>
         </td>
     </tr>
