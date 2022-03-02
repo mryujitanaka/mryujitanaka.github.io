@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Yuji Tanaka's Personal Website</h1>
-    <p align="center">This is my personal <em>portfolio website</em> that I make available to my clients and contractors who may be interested in my services. &#x1F913&#x1F596</p>
+    <p align="center">This is my personal <em>portfolio website</em> repository that I make available to my clients and contractors who may be interested in my services or proof of my web development skills. &#x1F913&#x1F596</p>
 <br>
 
 ---
